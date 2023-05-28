@@ -8,9 +8,9 @@ Original file is located at
 
 # Project 6: Consumer Complaint Classification
 
-Name of team members: Akansha Singh (19022)
-                      Archana Yadav (19048)
-                      Yashika Patil (19339)
+Name of team members: Akansha Singh
+                      Archana Yadav
+                      Yashika Patil
 """
 
 #mount the drive
