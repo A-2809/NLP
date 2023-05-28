@@ -3,9 +3,9 @@
 
 # # Project 6: Consumer Complaint Classification
 
-# Name of team members: Akanksha Singh (19022)
-#                       Archana Yadav (19048)
-#                       Yashika Patil (19339)
+# Name of team members: Akanksha Singh 
+#                       Archana Yadav 
+#                       Yashika Patil 
 
 import tensorflow as tf
 
